@@ -25,3 +25,5 @@ test-int
 test-parser
 tests/CMakeFiles/
 tmp/
+*.bak
+*.gitignore
